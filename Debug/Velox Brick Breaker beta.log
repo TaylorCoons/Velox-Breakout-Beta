@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\taylo\documents\mines\2016-2017 first semester\csci261\velox brick breaker beta\velox brick breaker beta\ball.h(17): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Velox Brick Breaker beta.vcxproj -> C:\Users\Taylo\Documents\Mines\2016-2017 First Semester\CSCI261\Velox Brick Breaker beta\Debug\Velox Brick Breaker beta.exe
+  Velox Brick Breaker beta.vcxproj -> C:\Users\Taylo\Documents\Mines\2016-2017 First Semester\CSCI261\Velox Brick Breaker beta\Debug\Velox Brick Breaker beta.pdb (Partial PDB)
